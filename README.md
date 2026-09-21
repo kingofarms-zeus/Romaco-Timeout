@@ -215,4 +215,4 @@ Romaco Timeout is available as a full free version, including all features and u
 Take control of your family's screen time today with Romaco Timeout! Download and start managing PC usage effectively!
 
 ---
-**Last updated:** 2026-09-21 17:56:26 UTC
+**Last updated:** 2026-09-21 21:45:17 UTC
